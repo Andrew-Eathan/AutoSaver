@@ -8,6 +8,12 @@ features:
 - ability to choose what programs to tick the timer on (so that it doesn't try to autosave in firefox or something lol)
 - hot minimal UI
 
+usage:
+- set seconds between saves to whatever you want
+- turn "press ctrl+s for me" on/off depending on what you want
+- select windows in the right side list
+- press the enable checkbox (or press ctrl + alt + s)
+
 # pics
 ![image](https://user-images.githubusercontent.com/42521608/156914874-daf69429-7386-449e-86e5-ef0077af0223.png)
   
