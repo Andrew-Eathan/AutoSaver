@@ -16,7 +16,7 @@ usage:
 - press the enable checkbox (or press ctrl + alt + s)
 
 # pics
-![image](https://user-images.githubusercontent.com/42521608/198893512-4a30e1a3-4018-43f7-b238-413d186e2fa9.png)
+![image](https://cdn.discordapp.com/attachments/515580681707847702/1036380819272515694/20221030_222929.jpg)
 
 with autosave on  
 ![image](https://user-images.githubusercontent.com/42521608/156914891-757f3257-d215-4f4e-b04a-d936008e7176.png)
