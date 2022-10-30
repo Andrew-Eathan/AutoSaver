@@ -6,7 +6,22 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>save.ico</ApplicationIcon>
+    <SignAssembly>False</SignAssembly>
+    <AssemblyOriginatorKeyFile></AssemblyOriginatorKeyFile>
+    <Authors>andreweathan &amp; Cioss</Authors>
+    <Version>1.1.0</Version>
+    <Title>AutoSaver</Title>
+    <Company>andreweathan</Company>
+    <Description>Helpful auto-saving reminder for your work</Description>
+    <Copyright>Copyright ©️ andreweathan 2022-current year</Copyright>
+    <PackageProjectUrl>https://github.com/Andrew-Eathan/AutoSaver</PackageProjectUrl>
+    <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="save.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Costura.Fody" Version="5.7.0">
