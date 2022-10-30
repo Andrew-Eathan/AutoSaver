@@ -1,4 +1,4 @@
-# AutoSaver
+# AutoSaver v1.1
 tiny customizable and interactive program that tells you to save your stuff (or it can do it for you!)  
 idea by my friend Cioss, i made it into a real program  
   
